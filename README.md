@@ -24,7 +24,7 @@ Some of my earlier academic and personal projects (from my Bachelor's) are avail
 
                                🌱 I’m currently studying Masters in Business Analytics from University of Edinburgh
 
-                                                          📫  s2845163@ed.ac.uk
+                                                            s2845163@ed.ac.uk
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
