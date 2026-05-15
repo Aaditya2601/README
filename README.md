@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm AADITYA JAISWAL</h1>
-<h3 align="center">A developer and Business Analyst from India</h3>
+<h3 align="center">A developer and Business Analyst</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi-1331&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-1331" /> </p>
 
