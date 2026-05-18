@@ -14,7 +14,7 @@
 Some of my earlier academic and personal projects (Bachelor's) are available on my previous GitHub profile 
 <br>
   
-👉 <a href="https://github.com/AADI-1331?tab=repositories" target="_blank">Old GitHub Repositories</a>
+👉 <a href="https://github.com/AADI-1331?tab=repositories" target="_blank">Old Repositories</a>
 </p></i></b></h3>
 
 <h2 align="center"> <a href="https://leetcode.com/u/aadit012601/">LEETCODE</a></h2>
