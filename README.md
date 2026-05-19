@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi-1331&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-1331" /> </p>
 
-<h4 align="center"><b><i>📂 My Previous GitHub Work</i></b></h4>
+<h4 align="center"><b><i>📂 My Previous Work</i></b></h4>
 
 <p align="center"><b><i><h3 align="center">
 Some of my earlier academic and personal projects (Bachelor's) are available on my previous GitHub profile 
