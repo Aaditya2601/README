@@ -11,7 +11,7 @@
 <h4 align="center"><b><i>📂 My Work</i></b></h4>
 
 <p align="center"><b><i><h3 align="center">
-Some of my earlier academic and projects (Bachelor's) are available on my previous GitHub  
+Some of my earlier academic and projects (Bachelor's) are available on previous GitHub  
 <br>
   
 👉 <a href="https://github.com/AADI-1331?tab=repositories" target="_blank">Old Repositories</a>
