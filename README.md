@@ -17,7 +17,7 @@ Some of my earlier academic and projects (Bachelor's) are available on previous 
 👉 <a href="https://github.com/AADI-1331?tab=repositories" target="_blank">Old Repositories</a>
 </p></i></b></h3>
 
-<h2 align="center"> <a href="https://leetcode.com/u/aadit012601/">LEETCODE</a></h2>
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-1331" alt="aadi-1331" /></a> </p>
