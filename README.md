@@ -3,7 +3,7 @@
 [![@aaditya's Holopin board](https://holopin.io/api/user/board?user=aaditya)](https://holopin.io/@aaditya)
 
 
-<h1 align="center">Hi, I'm AADITYA JAISWAL</h1>
+<h1 align="center">Hi I'm AADITYA JAISWAL</h1>
 <h3 align="center">Business Analyst</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadi-1331&label=Profile%20views&color=0e75b6&style=flat" alt="aadi-1331" /> </p>
